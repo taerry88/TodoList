@@ -5,6 +5,6 @@ The purpose of this project is to learn web application development.
 ## Development Tools
 
 
-### Front End : React.js
+- ### Front End : React.js
 
-### Back End : Spring Boot
+- ### Back End : Spring Boot
